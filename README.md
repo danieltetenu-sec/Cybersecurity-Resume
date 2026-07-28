@@ -44,7 +44,7 @@ Thank you for visiting this repository.
 
 ## Contact
 
-Email: (Your professional email)
+Email: danieltetenu.sec@gmail.com
 Location: Delta State, Nigeria
 
 Thank you for visiting my repository.
