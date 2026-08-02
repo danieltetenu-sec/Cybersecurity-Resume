@@ -20,21 +20,21 @@ I am currently pursuing a Bachelor of Science in Computer Science at the Univers
 
 ## Core Cybersecurity Knowledge
 
-Governance, Risk, Compliance & Data Privacy
-Vulnerability Management
-System & Network Security
-Cloud Security
-Security Operations & Management
-Incident Response & Systems Forensics
-
+- Governance, Risk, Compliance & Data Privacy
+- Vulnerability Management
+- System & Network Security
+- Cloud Security
+- Security Operations & Management
+- Incident Response & Systems Forensics
+  
 ## Career Objective
 
 I am seeking opportunities as:
-Entry-Level Cybersecurity Analyst
-SOC Analyst
-GRC Analyst
-Information Security Analyst
-IT Security Support
+- Entry-Level Cybersecurity Analyst
+- SOC Analyst
+- GRC Analyst
+- Information Security Analyst
+- IT Security Support
 
 ##  Resumes
 
