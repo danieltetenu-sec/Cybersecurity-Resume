@@ -36,6 +36,17 @@ GRC Analyst
 Information Security Analyst
 IT Security Support
 
+##  Resumes
+
+**Main Resume** — general-purpose, covers full GRC/SOC background
+→ [resume-main.pdf](link)
+
+**Tailored Resumes** (see `/tailored-resumes` folder)
+- SOC Analyst focused
+- GRC Analyst focused
+- Information Security Analyst focused
+- IT Security Support focused
+
 ## Professional Profiles
 
 LinkedIn: https://www.linkedin.com/in/daniel-gbenga-tetenu⁠
