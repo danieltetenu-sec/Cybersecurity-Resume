@@ -39,7 +39,8 @@ IT Security Support
 ##  Resumes
 
 **Main Resume** — general-purpose, covers full GRC/SOC background
-→ [resume-main.pdf](link)
+
+[⬇️ Download Daniel_Tetenu_Cybersecurity_Resume.pdf](https://raw.githubusercontent.com/danieltetenu-sec/Cybersecurity-Resume/main/Daniel_Tetenu_Cybersecurity_Resume.pdf)
 
 **Tailored Resumes** (see `/tailored-resumes` folder)
 - SOC Analyst focused
