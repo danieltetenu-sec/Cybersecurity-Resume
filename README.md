@@ -42,11 +42,19 @@ IT Security Support
 
 [⬇️ Download Daniel_Tetenu_Cybersecurity_Resume.pdf](https://raw.githubusercontent.com/danieltetenu-sec/Cybersecurity-Resume/main/Daniel_Tetenu_Cybersecurity_Resume.pdf)
 
-**Tailored Resumes** (see `/tailored-resumes` folder)
-- SOC Analyst focused
-- GRC Analyst focused
-- Information Security Analyst focused
-- IT Security Support focused
+**Tailored Resumes**
+
+**SOC Analyst (Tier 1)**
+[⬇️ Download](https://raw.githubusercontent.com/danieltetenu-sec/Cybersecurity-Resume/main/tailored-versions/Daniel_Tetenu_SOC_Analyst_Tier1_Resume.pdf)
+
+**GRC / Risk Analyst**
+[⬇️ Download](https://raw.githubusercontent.com/danieltetenu-sec/Cybersecurity-Resume/main/tailored-versions/Daniel_Tetenu_GRC_Risk_Analyst_Resume.pdf)
+
+**Cybersecurity Intern/Trainee**
+[⬇️ Download](https://raw.githubusercontent.com/danieltetenu-sec/Cybersecurity-Resume/main/tailored-versions/Daniel_Tetenu_Cybersecurity_Intern_Trainee_Resume.pdf)
+
+**IT Support → Security Path**
+[⬇️ Download](https://raw.githubusercontent.com/danieltetenu-sec/Cybersecurity-Resume/main/tailored-versions/Daniel_Tetenu_IT_Support_to_Security_Resume.pdf)
 
 ## Professional Profiles
 
